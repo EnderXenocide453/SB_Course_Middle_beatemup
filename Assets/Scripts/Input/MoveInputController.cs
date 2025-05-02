@@ -1,37 +1,40 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-[RequireComponent(typeof(CharacterMovement))]
-public class MoveInputController : InputController
+namespace Input
 {
-    private bool _isMoved;
-
-    private CharacterMovement _movement;
-    private InputAction _moveAction;
-
-    private void FixedUpdate()
+    [RequireComponent(typeof(CharacterMovement))]
+    public class MoveInputController : InputController
     {
-        if (_isMoved)
-            _movement.MoveToDirection(_moveAction.ReadValue<Vector2>(), Time.fixedDeltaTime);
-    }
+        private bool _isMoved;
 
-    public override void Init(PlayerControls controls)
-    {
-        _movement = GetComponent<CharacterMovement>();
+        private CharacterMovement _movement;
+        private InputAction _moveAction;
 
-        _moveAction = controls.ActionMap.MoveAction;
+        private void FixedUpdate()
+        {
+            if (_isMoved)
+                _movement.MoveToDirection(_moveAction.ReadValue<Vector2>(), Time.fixedDeltaTime);
+        }
 
-        _moveAction.started += OnActionStarted;
-        _moveAction.canceled += OnActionCanceled;
-    }
+        public override void Init(PlayerControls controls)
+        {
+            _movement = GetComponent<CharacterMovement>();
 
-    private void OnActionCanceled(InputAction.CallbackContext obj)
-    {
-        _isMoved = false;
-    }
+            _moveAction = controls.ActionMap.MoveAction;
 
-    private void OnActionStarted(InputAction.CallbackContext obj)
-    {
-        _isMoved = true;
+            _moveAction.started += OnActionStarted;
+            _moveAction.canceled += OnActionCanceled;
+        }
+
+        private void OnActionCanceled(InputAction.CallbackContext obj)
+        {
+            _isMoved = false;
+        }
+
+        private void OnActionStarted(InputAction.CallbackContext obj)
+        {
+            _isMoved = true;
+        }
     }
 }

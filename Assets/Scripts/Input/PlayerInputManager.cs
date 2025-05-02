@@ -1,14 +1,17 @@
-public static class PlayerInputManager
+namespace Input
 {
-    private static PlayerControls _controls;
-
-    public static void ConnectController(InputController controller)
+    public static class PlayerInputManager
     {
-        if (_controls == null) {
-            _controls = new PlayerControls();
-            _controls.Enable();
-        }
+        private static PlayerControls _controls;
 
-        controller.Init(_controls);
+        public static void ConnectController(InputController controller)
+        {
+            if (_controls == null) {
+                _controls = new PlayerControls();
+                _controls.Enable();
+            }
+
+            controller.Init(_controls);
+        }
     }
 }

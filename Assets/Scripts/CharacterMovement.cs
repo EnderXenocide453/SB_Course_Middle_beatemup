@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class CharacterMovement : MonoBehaviour
+public partial class CharacterMovement : MonoBehaviour
 {
     [SerializeField] float speed = 10;
 

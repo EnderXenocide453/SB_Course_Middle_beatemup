@@ -1,4 +1,4 @@
-namespace Stats
+namespace Abilities
 {
     public abstract class HoldAbility : BaseAbility, IAbilityEnder
     {

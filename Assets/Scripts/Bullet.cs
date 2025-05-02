@@ -1,23 +1,28 @@
-using Stats;
+using Characteristics;
 using System.Collections;
 using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    const float lifeTime = 5;
     private StatsHandler _statsHandler;
     private int _ricochets;
+    private float _damage;
+    private float _speed;
 
-    private void FixedUpdate()
+    private Rigidbody _body;
+    private Vector3 _direction;
+
+    private void Awake()
     {
-        if (_statsHandler != null)
-            transform.position += transform.forward * _statsHandler[StatType.ProjectileSpeed] * Time.fixedDeltaTime;
+        _body = GetComponent<Rigidbody>();
     }
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.TryGetComponent<Health>(out var health)) {
-            health.GetDamage(_statsHandler[StatType.Damage]);
+        if (collision.gameObject.TryGetComponent<HealthController>(out var health)) {
+            health.GetDamage(_damage);
+            Destroy(gameObject);
+            return;
         }
         if (_ricochets > 0) {
             Ricochet(collision);
@@ -28,22 +33,20 @@ public class Bullet : MonoBehaviour
 
     private void Ricochet(Collision collision)
     {
-        Vector3 direction = Vector3.Reflect(transform.forward, collision.contacts[0].normal);
-        transform.LookAt(direction);
+        _direction = Vector3.Reflect(_direction, collision.contacts[0].normal);
+        transform.LookAt(_direction);
+        _body.velocity = _direction * _speed;
         _ricochets--;
     }
 
     public void Init(StatsHandler statsHandler)
     {
         _statsHandler = statsHandler;
-        _ricochets = (int)statsHandler[StatType.Ricochet];
-        StartCoroutine(LifeCycle());
-    }
+        _ricochets = (int)statsHandler[ECharacteristicType.Ricochet];
+        _damage = statsHandler[ECharacteristicType.Damage];
+        _speed = statsHandler[ECharacteristicType.ProjectileSpeed];
 
-    private IEnumerator LifeCycle()
-    {
-        yield return new WaitForSeconds(lifeTime);
-
-        Destroy(gameObject);
+        _direction = transform.forward;
+        _body.velocity = _speed * _direction;
     }
 }

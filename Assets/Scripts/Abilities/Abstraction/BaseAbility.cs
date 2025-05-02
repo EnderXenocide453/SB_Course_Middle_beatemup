@@ -1,7 +1,8 @@
+using Characteristics;
 using System.Collections;
 using UnityEngine;
 
-namespace Stats
+namespace Abilities
 {
     public abstract class BaseAbility : MonoBehaviour, IAbilityStarter
     {
@@ -10,9 +11,9 @@ namespace Stats
         protected bool _isReady = true;
         protected StatsHandler _statsHandler;
 
-        public void Init(StatsHandler handler)
+        private void Awake()
         {
-            _statsHandler = handler;
+            _statsHandler = GetComponent<StatsHandler>();
         }
 
         public virtual void Execute()

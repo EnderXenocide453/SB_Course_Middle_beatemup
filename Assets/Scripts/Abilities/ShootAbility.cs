@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Stats
+namespace Abilities
 {
     public class ShootAbility : HoldAbility
     {

@@ -1,58 +1,32 @@
-﻿using System.Collections.Generic;
+﻿using DataProviding;
+using EffectsSystem;
+using System.Collections.Generic;
 using UnityEngine;
 
-namespace Stats
+namespace Characteristics
 {
     public class StatsHandler : MonoBehaviour
     {
-        [SerializeField] private Health _health;
-        [SerializeField] private StatInfo[] _baseStats;
-        private Dictionary<StatType, float> _statsDict = new Dictionary<StatType, float>()
-        {
-            { StatType.Health, 10 },
-            { StatType.Ricochet, 0 }
-        };
+        [SerializeField] private EffectableObject _effectable;
 
-        public Health Health => _health;
+        private PlayerTemplate _template => DataProvider.GetData<StaticData>().PlayerTemplate;
 
-        public float this[StatType type]
+        public float this[ECharacteristicType type]
         {
             get
             {
-                if (!_statsDict.TryGetValue(type, out float value)) {
-                    _statsDict.Add(type, 0);
-                    value = 0;
+                if (!_template.Characteristics.TryGetValue(type, out float value)) {
+                    Debug.LogError($"Characteristic of type {type} not implemented in template, return 0");
+                    return 0;
                 }
-                return value;
-            }
-            set
-            {
-                if (!_statsDict.TryAdd(type, value)) {
-                    _statsDict[type] = value;
-                }
-            }
-        }
-
-        private void OnValidate()
-        {
-            InitDict();
-        }
-
-        public void ApplyBuff(StatsBuff buff) => this[buff.Type] += buff.Value;
-        
-        public void CancelBuff(StatsBuff buff) => this[buff.Type] -= buff.Value;
-
-        private void InitDict()
-        {
-            foreach(StatInfo info in _baseStats) {
-                this[info.Type] = info.Value;
+                return _effectable.EffectCharacteristic(type, value);
             }
         }
 
         [System.Serializable]
         private struct StatInfo
         {
-            public StatType Type;
+            public ECharacteristicType Type;
             public float Value;
         }
     }

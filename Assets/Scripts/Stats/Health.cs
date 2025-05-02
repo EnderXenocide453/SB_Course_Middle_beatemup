@@ -1,6 +1,7 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
-namespace Stats
+namespace Characteristics
 {
     [System.Serializable]
     public class Health
@@ -15,6 +16,11 @@ namespace Stats
         public void GetDamage(float amount)
         {
             _healthPoints -= amount;
+        }
+
+        public void SetDefaultValue(float health)
+        {
+            _healthPoints = health;
         }
     }
 }

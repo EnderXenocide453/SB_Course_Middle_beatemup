@@ -5,11 +5,9 @@ namespace Collectables
 {
     public abstract class CollectableItem : MonoBehaviour
     {
-        public UnityEvent OnCollect;
-
-        public void Collect()
+        public virtual void OnCollect(Collector collector)
         {
-            OnCollect?.Invoke();
+            Destroy(gameObject);
         }
     }
 }

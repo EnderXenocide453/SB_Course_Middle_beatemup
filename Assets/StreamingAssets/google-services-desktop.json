@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "406882136230",
+    "project_id": "educational-815ec",
+    "storage_bucket": "educational-815ec.appspot.com",
+    "firebase_url": "https://educational-815ec-default-rtdb.europe-west1.firebasedatabase.app/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406882136230:android:332e6bacddc321d24a4467",
+        "android_client_info": {
+          "package_name": "com.FoxAndCat.FireBase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm1fNj95E8Svs3cTPG9wBplYo1ViN28-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

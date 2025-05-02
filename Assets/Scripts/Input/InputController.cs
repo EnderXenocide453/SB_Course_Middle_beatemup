@@ -1,18 +1,21 @@
 using UnityEngine;
 
-public abstract class InputController : MonoBehaviour
+namespace Input
 {
-    private void Awake()
+    public abstract class InputController : MonoBehaviour
     {
-        PlayerInputManager.ConnectController(this);
+        private void Awake()
+        {
+            PlayerInputManager.ConnectController(this);
+        }
+
+        public abstract void Init(PlayerControls controls);
     }
 
-    public abstract void Init(PlayerControls controls);
-}
-
-public enum PlayerInputActionType
-{
-    AttackAction,
-    MoveAction,
-    AbilityAction
+    public enum PlayerInputActionType
+    {
+        AttackAction,
+        MoveAction,
+        AbilityAction
+    }
 }
