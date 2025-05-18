@@ -5,299 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ea3e0d2-6ea0-4449-85bc-0d7fc09d0394" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FireBase/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FireBase/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FireBase/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_analytics.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_analytics.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_analytics_dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_analytics_dark.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_auth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_auth.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_auth_dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_auth_dark.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_cloud_messaging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_cloud_messaging.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_cloud_messaging_dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_cloud_messaging_dark.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_config.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_config.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_config_dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_config_dark.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_crashlytics.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_crashlytics.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_crashlytics_dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_crashlytics_dark.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_database.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_database.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_database_dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_database_dark.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_dynamic_links.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_dynamic_links.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_dynamic_links_dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_dynamic_links_dark.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_functions.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_functions.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_functions_dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_functions_dark.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_invites.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_invites.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_invites_dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_invites_dark.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_storage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_storage.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_storage_dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/fb_storage_dark.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/firebase_lockup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/firebase_lockup.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/firebase_lockup_dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor Default Resources/Firebase/firebase_lockup_dark.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Effects.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Effects/PermanentHealEffectTemplate.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Effects/PermanentHealEffectTemplate.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Effects/ProjectileSpeedDebuffTemplate.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Effects/ProjectileSpeedDebuffTemplate.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Effects/ProjectileSpeedEffectTemplate.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Effects/ProjectileSpeedEffectTemplate.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Effects/RicochetEffectTemplate.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Effects/RicochetEffectTemplate.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.185.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.185/Google.IOSResolver.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.185/Google.IOSResolver.dll.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.185/Google.JarResolver.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.185/Google.JarResolver.dll.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.185/Google.PackageManagerResolver.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.185/Google.PackageManagerResolver.dll.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.185/Google.VersionHandlerImpl.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.185/Google.VersionHandlerImpl.dll.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/CHANGELOG.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/LICENSE.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/README.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.185_manifest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.185_manifest.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Firebase.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GoogleService-Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Walls.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Walls.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/CollectableEffect.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/CollectableEffect.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Preloader.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Preloader.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Cloud.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Cloud/GoogleDriveTools.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Collectables/CollectableEffect.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Collectables/CollectableItemsManipulator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Effects.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Effects/CharacteristicsEffectTemplate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Effects/EffectTemplate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Effects/EffectableObject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Effects/EffectableObject.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Effects/PermanentHealEffectTemplate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Effects/PermanentHealEffectTemplate.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/DataLoadService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/DataLoadService.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/DataProvider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/DataProvider.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/IDataContainer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/IDataContainer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/ITickable.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/ITickable.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/MainApplication.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/MainApplication.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/PlayerTemplate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/PlayerTemplate.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/StaticData.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/StaticData.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/Utils.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/General/Utils.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Stats/CharacteristicsModifier.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Stats/CharacteristicsModifier.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Stats/ECharacteristicType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Stats/ECharacteristicType.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Stats/HealthController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Stats/HealthController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets/google-services-desktop.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets/google-services-desktop.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Editor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Editor/Dependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Editor/Dependencies.xml.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Editor/Elringus.UnityGoogleDrive.Editor.asmdef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Editor/Elringus.UnityGoogleDrive.Editor.asmdef.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Editor/GoogleDriveSettingsEditor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Editor/GoogleDriveSettingsEditor.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/LICENSE.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Plugins.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Plugins/com.elringus.unitygoogledriveandroid.aar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Plugins/com.elringus.unitygoogledriveandroid.aar.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Plugins/com.elringus.unitygoogledriveios.mm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Plugins/com.elringus.unitygoogledriveios.mm.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Resources.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Resources/GoogleDriveSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Resources/GoogleDriveSettings.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/About.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/About.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/AudioFile.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/AudioFile.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/Change.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/Change.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/ChangeList.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/ChangeList.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/Channel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/Channel.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/File.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/File.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/FileList.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/FileList.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/GeneratedIds.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/GeneratedIds.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/Permission.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/Permission.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/ResourceData.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/ResourceData.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/StartPageToken.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/StartPageToken.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/TeamDrive.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/TeamDrive.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/TeamDriveList.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/TeamDriveList.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/TextureFile.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/TextureFile.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/Data/User.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/GoogleDriveAbout.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/GoogleDriveAbout.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/GoogleDriveChanges.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/GoogleDriveChanges.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/GoogleDriveFiles.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/GoogleDriveFiles.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/GoogleDriveTeamDrives.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/API/GoogleDriveTeamDrives.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/AccessTokenRefresher.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/AccessTokenRefresher.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/AndroidAccessTokenProvider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/AndroidAccessTokenProvider.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/AuthCodeExchanger.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/AuthCodeExchanger.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/AuthController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/AuthController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/GenericClientCredentials.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/GenericClientCredentials.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/IAccessTokenProvider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/IAccessTokenProvider.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/IClientCredentials.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/IClientCredentials.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/IOSAccessTokenProvider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/IOSAccessTokenProvider.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/LoopbackAccessTokenProvider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/LoopbackAccessTokenProvider.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/RedirectAccessTokenProvider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/RedirectAccessTokenProvider.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/UriSchemeClientCredentials.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Authorization/UriSchemeClientCredentials.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Elringus.UnityGoogleDrive.Runtime.asmdef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Elringus.UnityGoogleDrive.Runtime.asmdef.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/GoogleDriveRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/GoogleDriveRequest.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/GoogleDriveRequestYieldInstruction.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/GoogleDriveRequestYieldInstruction.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/GoogleDriveResponseError.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/GoogleDriveResponseError.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/GoogleDriveResumableUploadRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/GoogleDriveResumableUploadRequest.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/GoogleDriveSettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/GoogleDriveSettings.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/GoogleDriveUploadRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/GoogleDriveUploadRequest.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Utilities.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Utilities/AsyncExtensions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Utilities/AsyncExtensions.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Utilities/CryptoUtils.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Utilities/CryptoUtils.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Utilities/Error.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Utilities/Error.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Utilities/Helpers.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Utilities/Helpers.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Utilities/JsonUtils.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/Runtime/Utilities/JsonUtils.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/ThirdParty.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/ThirdParty/JsonNet-Lite.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/ThirdParty/JsonNet-Lite/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/ThirdParty/JsonNet-Lite/LICENSE.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/ThirdParty/JsonNet-Lite/UnityGoogleDrive.Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/ThirdParty/JsonNet-Lite/UnityGoogleDrive.Newtonsoft.Json.dll.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UnityGoogleDrive/package.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/google-services.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/google-services.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/GvhProjectSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimelineSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vsconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Bullet.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleService-Info.plist.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Abilities/Abstraction/BaseAbility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Abilities/Abstraction/BaseAbility.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Abilities/Abstraction/HoldAbility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Abilities/Abstraction/HoldAbility.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Abilities/Abstraction/IAbilityEnder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Abilities/Abstraction/IAbilityEnder.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Abilities/Abstraction/IAbilityStarter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Abilities/Abstraction/IAbilityStarter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Abilities/DashAbility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Abilities/DashAbility.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Abilities/ShootAbility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Abilities/ShootAbility.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buffs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Buffs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buffs/BuffData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buffs/BuffData.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Effects/EffectTemplate.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buffs/BuffsHandler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buffs/BuffsHandler.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Cloud/GoogleDriveTools.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buffs/HealthBuff.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buffs/HealthBuff.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Effects/CharacteristicsEffectTemplate.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buffs/IBuff.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buffs/IBuff.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Collectables/CollectableItemsManipulator.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buffs/StatType.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buffs/StatType.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buffs/StatsBuff.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Buffs/StatsBuff.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Collectables/CollectableBuff.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Collectables/CollectableBuff.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Collectables/CollectableEffect.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Collectables/CollectableHealth.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Collectables/CollectableHealth.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Collectables/CollectableItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Collectables/CollectableItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Collectables/CollectableStatsBuff.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Collectables/CollectableStatsBuff.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Collectables/Collector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Collectables/Collector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FireBase/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FireBase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Floor.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Floor.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/AttackerBot.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/AttackerBot.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/RunnerBot Variant.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/RunnerBot Variant.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Game.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Game/NavMesh-NavMesh.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Game/NavMesh-NavMesh.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AIAgent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AIAgent.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AIGlobalData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AIGlobalData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AITarget.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AITarget.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AIUtilitySystem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AIUtilitySystem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/AttackBehaviour.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/AttackBehaviour.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/ChaseBehaviour.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/ChaseBehaviour.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/EBehaviourType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/EBehaviourType.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/IAIBehaviour.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/IAIBehaviour.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/KeepDistanceBehaviour.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/KeepDistanceBehaviour.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/PatrolBehaviour.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/PatrolBehaviour.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/WaitBehaviour.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/WaitBehaviour.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Senses.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Senses/AbstractSense.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Senses/AbstractSense.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Senses/SightSense.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Senses/SightSense.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FireBase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FireBase/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Walls.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Walls.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Effects/EffectableObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Effects/EffectableObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/General/MainApplication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/General/MainApplication.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/General/StaticData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/General/StaticData.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/AbilityInputController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Input/AbilityInputController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/InputController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Input/InputController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/MoveInputController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Input/MoveInputController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/PlayerInputManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Input/PlayerInputManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Stats/Health.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Stats/Health.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Stats/HealthController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Stats/HealthController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Stats/StatsHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Stats/StatsHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/PlayerControls.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/PlayerControls.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/google-services-desktop.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/google-services-desktop.json.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -308,9 +69,34 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1deb21ae03414eff8f54b3df555e4e2c3600/14/659dfbab/JsonUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2365a8d3321b417c898628f145ad42c8d400/2e/3de7fbf0/NavMeshAgent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/356d430fdcb04bbf8dc54776e1d3627f46ac00/82/1692c1d9/ExceptionDispatchInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/356d430fdcb04bbf8dc54776e1d3627f46ac00/bf/a8571779/Task`1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/356d430fdcb04bbf8dc54776e1d3627f46ac00/d7/63ceeb37/Task.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/0b/65960d28/Dictionary`2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/5d/fce5ebb1/Task`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/a8b345fafe4940a4a4814a1a1edb8de62e200/06/9d81c5d8/FirestorePropertyAttribute.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -327,12 +113,14 @@
     &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;AI&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C#&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -373,13 +161,15 @@
       <option name="useMixedMode" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="2448">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="2448" />
       <option name="projectPathOnTarget" />
       <option name="runtimes">
-        <list />
+        <list>
+          <MonoRuntime />
+        </list>
       </option>
       <option name="selectedOptions">
         <list />
@@ -396,6 +186,12 @@
       <option name="presentableId" value="Default" />
       <updated>1745743887609</updated>
       <workItem from="1745743890621" duration="11719000" />
+      <workItem from="1746253355613" duration="7560000" />
+      <workItem from="1746300582662" duration="2779000" />
+      <workItem from="1746338307098" duration="272000" />
+      <workItem from="1746338702012" duration="7333000" />
+      <workItem from="1746883761669" duration="6663000" />
+      <workItem from="1747554819057" duration="11244000" />
     </task>
     <servers />
   </component>
@@ -428,17 +224,45 @@
           <option name="timeStamp" value="3" />
         </breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/Stats/HealthController.cs</url>
-          <line>13</line>
-          <properties documentPath="C:\Development\Unity\FireBase\Assets\Scripts\Stats\HealthController.cs" containingFunctionPresentation="Method 'Awake'">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/PatrolBehaviour.cs</url>
+          <line>34</line>
+          <properties documentPath="C:\Development\Unity\FireBase\Assets\Scripts\AI\Behaviours\PatrolBehaviour.cs" containingFunctionPresentation="Method 'OnEnter'">
             <startOffsets>
-              <option value="265" />
+              <option value="1183" />
             </startOffsets>
             <endOffsets>
-              <option value="347" />
+              <option value="1278" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="7" />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <condition expression="agent.CurrentBehaviour.behaviour is ChaseBehaviour" language="C#" />
+          <url>file://$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/AttackBehaviour.cs</url>
+          <line>13</line>
+          <properties documentPath="C:\Development\Unity\FireBase\Assets\Scripts\AI\Behaviours\AttackBehaviour.cs" containingFunctionPresentation="Method 'Evaluate'">
+            <startOffsets>
+              <option value="271" />
+            </startOffsets>
+            <endOffsets>
+              <option value="429" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <condition expression="agent.Target != null" language="C#" />
+          <url>file://$PROJECT_DIR$/Assets/Scripts/AI/AIUtilitySystem.cs</url>
+          <line>25</line>
+          <properties documentPath="C:\Development\Unity\FireBase\Assets\Scripts\AI\AIUtilitySystem.cs" containingFunctionPresentation="Method 'FixedUpdate'">
+            <startOffsets>
+              <option value="645" />
+            </startOffsets>
+            <endOffsets>
+              <option value="771" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

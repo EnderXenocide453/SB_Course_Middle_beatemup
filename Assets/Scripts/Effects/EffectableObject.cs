@@ -10,6 +10,11 @@ namespace EffectsSystem
         [SerializeField] private HealthController _healthController;
         private readonly Dictionary<ECharacteristicType, float> _characteristicModifiers = new Dictionary<ECharacteristicType, float>();
 
+        public void Init(float health)
+        {
+            _healthController.Init(health);
+        }
+        
         public void TryApplyHealing(float healAmount)
         {
             _healthController?.ApplyHealing(healAmount);

@@ -1,5 +1,7 @@
-﻿using DataProviding;
+﻿using AI;
+using DataProviding;
 using Firebase;
+using Firebase.Database;
 using Firebase.Extensions;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -21,7 +23,12 @@ namespace General
             {
                 var dependencyStatus = task.Result;
                 if (dependencyStatus != DependencyStatus.Available)
+                {
                     Debug.LogError($"Could not resolve all Firebase dependencies: {dependencyStatus}");
+                    return;
+                }
+                
+                FirebaseDatabase.DefaultInstance.SetPersistenceEnabled(false);
             });
         }
 
@@ -39,8 +46,11 @@ namespace General
         private async Task LoadStaticData()
         {
             var staticData = await DataLoadService.Load<StaticData>("StaticData").HandleExceptions();
-            
             DataProvider.RegisterData(staticData);
+            
+            var aiData = new AIGlobalData();
+            aiData.Init();
+            DataProvider.RegisterData(aiData);
         }
     }
 }

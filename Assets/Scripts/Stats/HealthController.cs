@@ -9,9 +9,11 @@ namespace Characteristics
     {
         [SerializeField] private Health _health;
 
-        private void Awake()
+        public Health Health => _health;
+        
+        public void Init(float health)
         {
-            _health.SetDefaultValue(DataProvider.GetData<StaticData>().PlayerTemplate.Health);
+            _health.SetDefaultValue(health);
         }
 
         public void ApplyHealing(float healAmount)

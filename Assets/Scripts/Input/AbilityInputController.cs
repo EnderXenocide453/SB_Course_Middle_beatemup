@@ -13,7 +13,7 @@ namespace Input
         public override void Init(PlayerControls controls)
         {
             if (ability == null) {
-                Debug.LogError("Не назначено действие");
+                Debug.LogError("Ability is not assigned!");
                 return;
             }
 
