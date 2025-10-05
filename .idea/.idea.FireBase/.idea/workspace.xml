@@ -5,61 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ea3e0d2-6ea0-4449-85bc-0d7fc09d0394" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FireBase/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FireBase/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Floor.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Floor.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/AttackerBot.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/AttackerBot.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/RunnerBot Variant.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/RunnerBot Variant.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Game.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Game/NavMesh-NavMesh.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Game/NavMesh-NavMesh.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AIAgent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AIAgent.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AIGlobalData.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AIGlobalData.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AITarget.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AITarget.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AIUtilitySystem.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AIUtilitySystem.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/AttackBehaviour.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/AttackBehaviour.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/ChaseBehaviour.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/ChaseBehaviour.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/EBehaviourType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/EBehaviourType.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/IAIBehaviour.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/IAIBehaviour.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/KeepDistanceBehaviour.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/KeepDistanceBehaviour.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/PatrolBehaviour.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/PatrolBehaviour.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/WaitBehaviour.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/WaitBehaviour.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Senses.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Senses/AbstractSense.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Senses/AbstractSense.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Senses/SightSense.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/Senses/SightSense.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Abilities/Abstraction/HideWhenFarFromSomethingAbility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Abilities/Abstraction/HideWhenFarFromSomethingAbility.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Abilities/Abstraction/IPassiveAbility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Abilities/Abstraction/IPassiveAbility.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FireBase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FireBase/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Floor.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Materials/Walls.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Walls.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/AttackerBot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/AttackerBot.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Bullet.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/CollectableEffect.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/CollectableEffect.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/RunnerBot Variant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/RunnerBot Variant.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Effects/EffectableObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Effects/EffectableObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/General/MainApplication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/General/MainApplication.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/General/StaticData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/General/StaticData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Input/AbilityInputController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Input/AbilityInputController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Stats/HealthController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Stats/HealthController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Stats/StatsHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Stats/StatsHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/google-services-desktop.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/google-services-desktop.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Preloader.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Preloader.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +78,8 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;AI&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -161,10 +126,10 @@
       <option name="useMixedMode" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="2448">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="15760">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="2448" />
+      <option name="pid" value="15760" />
       <option name="projectPathOnTarget" />
       <option name="runtimes">
         <list>
@@ -191,7 +156,10 @@
       <workItem from="1746338307098" duration="272000" />
       <workItem from="1746338702012" duration="7333000" />
       <workItem from="1746883761669" duration="6663000" />
-      <workItem from="1747554819057" duration="11244000" />
+      <workItem from="1747554819057" duration="11808000" />
+      <workItem from="1750272828246" duration="73000" />
+      <workItem from="1759051741111" duration="2936000" />
+      <workItem from="1759647785994" duration="4598000" />
     </task>
     <servers />
   </component>
@@ -224,19 +192,6 @@
           <option name="timeStamp" value="3" />
         </breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/PatrolBehaviour.cs</url>
-          <line>34</line>
-          <properties documentPath="C:\Development\Unity\FireBase\Assets\Scripts\AI\Behaviours\PatrolBehaviour.cs" containingFunctionPresentation="Method 'OnEnter'">
-            <startOffsets>
-              <option value="1183" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1278" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <condition expression="agent.CurrentBehaviour.behaviour is ChaseBehaviour" language="C#" />
           <url>file://$PROJECT_DIR$/Assets/Scripts/AI/Behaviours/AttackBehaviour.cs</url>
           <line>13</line>
@@ -251,20 +206,37 @@
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <condition expression="agent.Target != null" language="C#" />
-          <url>file://$PROJECT_DIR$/Assets/Scripts/AI/AIUtilitySystem.cs</url>
-          <line>25</line>
-          <properties documentPath="C:\Development\Unity\FireBase\Assets\Scripts\AI\AIUtilitySystem.cs" containingFunctionPresentation="Method 'FixedUpdate'">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Bullet.cs</url>
+          <line>20</line>
+          <properties documentPath="C:\Development\Unity\FireBase\Assets\Scripts\Bullet.cs" containingFunctionPresentation="Method 'OnCollisionEnter'">
             <startOffsets>
-              <option value="645" />
+              <option value="431" />
             </startOffsets>
             <endOffsets>
-              <option value="771" />
+              <option value="432" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="27" />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Abilities/Abstraction/HideWhenFarFromSomethingAbility.cs</url>
+          <line>52</line>
+          <properties documentPath="C:\Development\Unity\FireBase\Assets\Scripts\Abilities\Abstraction\HideWhenFarFromSomethingAbility.cs" containingFunctionPresentation="Method 'EvaluateHide'">
+            <startOffsets>
+              <option value="1943" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1967" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#UnityEngine.Collision" memberName="body" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

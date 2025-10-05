@@ -34,7 +34,7 @@ public class Bullet : MonoBehaviour
     private void Ricochet(Collision collision)
     {
         _direction = Vector3.Reflect(_direction, collision.contacts[0].normal);
-        transform.LookAt(_direction);
+        transform.LookAt(transform.position + _direction);
         _body.velocity = _direction * _speed;
         _ricochets--;
     }
